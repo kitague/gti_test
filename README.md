@@ -1,0 +1,1 @@
+this is Ousmane's first basic git project with Odin learning how to get my way around GitHub through command line!
